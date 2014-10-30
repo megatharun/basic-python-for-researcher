@@ -1,0 +1,16 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;margin:0px auto;}
+.tg td{font-family:Arial, sans-serif;font-size:24px;padding:10px 20px;border-style:dashed;border-width:1px;overflow:hidden;word-break:normal;}
+.tg th{font-family:Arial, sans-serif;font-size:24px;font-weight:normal;padding:10px 20px;border-style:dashed;border-width:1px;overflow:hidden;word-break:normal;}
+.tg .tg-glrw{font-size:36px;font-family:"Courier New", Courier, monospace !important;;background-color:#ecf4ff;text-align:center}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-glrw">  1  </th>
+    <th class="tg-glrw">  2  </th>
+  </tr>
+  <tr>
+    <td class="tg-glrw">  3  </td>
+    <td class="tg-glrw">  4  </td>
+  </tr>
+</table>
