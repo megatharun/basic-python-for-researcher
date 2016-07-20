@@ -1,0 +1,55 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "_by_ [**_Megat Harun Al Rashid bin Megat Ahmad_**](https://www.researchgate.net/profile/Megat_Harun_Megat_Ahmad)  \n",
+    "last updated: October 17, 2015"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "-------\n",
+    "##_<span style=\"color: #29088A\">Introduction to <span style=\"color: #F88017\">Jupyter Notebook</span></span>_"
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The <span style=\"color: #F88017\">_**Jupyter Notebook**_</span> software is an interactive programming tools that utilizes the browser technology as interface. It allows the creation and sharing of documents that contain live computational codes, data processing and visualization together with explanatory text. It can be used for scientific and engineering computation as well as business and economy. <span style=\"color: #F88017\">_**Jupyter Notebook**_</span> is initially developed as interactive _Python_ interpreter, previously known as <span style=\"color: #0000FF\">_**IPython Notebook**_</span>, but now it supports over 40 programming languages, including #8C001A\">_**Julia**_</span>, which was developed specifically for scientific computation.
+   ]
+  },
+  {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "The Notebook has support for over 40 programming languages, including those popular in Data Science such as Python, R, Julia and Scala."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 2",
+   "language": "python",
+   "name": "python2"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 2
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython2",
+   "version": "2.7.10"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 0
+}

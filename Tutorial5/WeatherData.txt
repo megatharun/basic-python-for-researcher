@@ -1,0 +1,7 @@
+
+Town Temperature(C) Condition Wind(km/hr) Precipitation(%)
+
+Klang 33.6 Clear 5 55
+Rawang 35.5 Haze 2 77
+Bangi 27.0 Rain 10 95
+Kapar 30.8 Cloudy 7 80
